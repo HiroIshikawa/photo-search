@@ -23,10 +23,11 @@ For chrome:
 ```
 chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security
 ```
-```
 - OSX
+```
 open -a Google\ Chrome --args --disable-web-security --user-data-dir
 ```
+- Linux
 ```
 google-chrome --disable-web-security
 ```
