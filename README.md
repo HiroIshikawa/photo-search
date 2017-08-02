@@ -4,7 +4,7 @@
 
 Clone the repo
 ```
-git clone https://github.com/
+git clone https://github.com/HiroIshikawa/photo-search
 cd photo-search
 ```
 
